@@ -1,1 +1,1 @@
-vue 
+vue webapp v1.0.0
